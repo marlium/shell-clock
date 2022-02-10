@@ -5,7 +5,7 @@ For Convenience:
 
   Add this to the end of your .bashrc file:
   
-    alias tdi="/your/path/to/the/timedate-viewer"
+    alias tdi="/your/path/to/the/shell-clock"
   
  Now you can type "tdi" for Time / Date information.
  
